@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnu94833
-- 👀 I’m interested in Javascript, NodeJs, Angular, HTML, CSS, SCSS, Typescript
-- 🌱 I’m currently learning FullStack 
+- 👀 I’m interested in Javascript, NodeJs, Angular, HTML, CSS, SCSS, Typescript, Java
+- 🌱 FullStack, Frontend Developer
 - 💞️ I’m looking to collaborate on Typescript, Angular
 - 📫 How to reach me vishnu94833@gmai.com
 
